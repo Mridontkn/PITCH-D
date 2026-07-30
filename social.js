@@ -25,7 +25,7 @@ function renderSocialFeed(posts) {
     }
 
     const logos = {
-    "PUCK'D Media": "logo.png",
+    "PITCH'D Media": "logo.png",
     "IceMetrix": "IceMetrix.jpg"
 };
 

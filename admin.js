@@ -1,5 +1,5 @@
 /* ============================================================
-   PUCK'D — Admin Dashboard Logic
+   PITCH'D — Admin Dashboard Logic
    Handles staff login (Supabase Auth) and publishing articles
    to the "article" table in Supabase (with optional hero image
    upload to the "article-images" storage bucket).
@@ -217,3 +217,4 @@ publishBtn.addEventListener('click', async () => {
 
 // ---- Init --------------------------------------------------------------
 checkSession();
+

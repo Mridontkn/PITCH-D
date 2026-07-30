@@ -25,7 +25,7 @@ form.addEventListener("submit", async (e) => {
         return;
     }
 
-    message.textContent = "Thanks for subscribing to the PUCK'D Newsletter! 🏒";
+    message.textContent = "Thanks for subscribing to the PITCH'D Newsletter! 🏒";
     message.style.color = "#E8632C";
 
     form.reset();
