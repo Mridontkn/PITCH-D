@@ -26,7 +26,7 @@ function renderSocialFeed(posts) {
 
     const logos = {
     "PITCH'D Media": "logo.png",
-    "IceMetrix": "IceMetrix.jpg"
+
 };
 
     container.innerHTML = posts.map(post => `
